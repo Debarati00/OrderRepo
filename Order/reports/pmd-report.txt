@@ -1,0 +1,1054 @@
+src/main/java/com/pack/order/OrderApplication.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/OrderApplication.java:18:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/OrderApplication.java:18:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/OrderApplication.java:18:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/OrderApplication.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/OrderApplication.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/OrderApplication.java:20:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/pack/order/OrderApplication.java:20:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/pack/order/OrderApplication.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/OrderApplication.java:25:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/OrderApplication.java:26:	LocalVariableCouldBeFinal: Local variable 'filterRegistrationBean' could be declared final
+src/main/java/com/pack/order/OrderApplication.java:26:	LocalVariableCouldBeFinal: Local variable 'filterRegistrationBean' could be declared final
+src/main/java/com/pack/order/OrderApplication.java:26:	LongVariable: Avoid excessively long variable names like filterRegistrationBean
+src/main/java/com/pack/order/OrderApplication.java:26:	LongVariable: Avoid excessively long variable names like filterRegistrationBean
+src/main/java/com/pack/order/OrderApplication.java:27:	LocalVariableCouldBeFinal: Local variable 'myFilter' could be declared final
+src/main/java/com/pack/order/OrderApplication.java:27:	LocalVariableCouldBeFinal: Local variable 'myFilter' could be declared final
+src/main/java/com/pack/order/client/ProfileProxy.java:15:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:15:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:18:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:18:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:18:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getAllProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:21:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:21:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProfileById': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:21:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'getProfileById': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:24:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:24:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:24:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:24:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'addProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:27:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:27:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:27:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'updateProfiles': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/client/ProfileProxy.java:30:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfileById': the method is declared in an interface type
+src/main/java/com/pack/order/client/ProfileProxy.java:30:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'deleteProfileById': the method is declared in an interface type
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:16:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:16:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:16:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:19:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:20:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:20:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:20:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:30:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:31:	LocalVariableCouldBeFinal: Local variable 'factory' could be declared final
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:31:	LocalVariableCouldBeFinal: Local variable 'factory' could be declared final
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:31:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/pack/order/config/KafkaConsumerConfig.java:31:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:17:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:17:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:17:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:20:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:21:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:21:	LocalVariableCouldBeFinal: Local variable 'configs' could be declared final
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:21:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:21:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/KafkaPublisherConfig.java:29:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/MyFilter.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/MyFilter.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/MyFilter.java:8:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/MyFilter.java:8:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/MyFilter.java:11:	MethodArgumentCouldBeFinal: Parameter 'filterConfig' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:11:	MethodArgumentCouldBeFinal: Parameter 'filterConfig' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/order/config/MyFilter.java:11:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'filterChain' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'servletRequest' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'servletRequest' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'servletResponse' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:16:	MethodArgumentCouldBeFinal: Parameter 'servletResponse' is not assigned and could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:18:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:18:	LocalVariableCouldBeFinal: Local variable 'request' could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:19:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '19'-'26').
+src/main/java/com/pack/order/config/MyFilter.java:19:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'response' (lines '19'-'26').
+src/main/java/com/pack/order/config/MyFilter.java:19:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:19:	LocalVariableCouldBeFinal: Local variable 'response' could be declared final
+src/main/java/com/pack/order/config/MyFilter.java:20:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/config/MyFilter.java:20:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/config/MyFilter.java:20:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/config/MyFilter.java:20:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/config/MyFilter.java:20:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/pack/order/config/MyFilter.java:20:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/pack/order/config/MyFilter.java:29:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/order/config/MyFilter.java:29:	UncommentedEmptyMethodBody: Document empty method body
+src/main/java/com/pack/order/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/SwaggerConfig.java:14:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/config/SwaggerConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/SwaggerConfig.java:14:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/config/SwaggerConfig.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/config/SwaggerConfig.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/controller/OrderController.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/controller/OrderController.java:31:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/controller/OrderController.java:31:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/controller/OrderController.java:31:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/pack/order/controller/OrderController.java:31:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/pack/order/controller/OrderController.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderService field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderService field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:34:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:34:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:36:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:36:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:39:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:39:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:40:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:40:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:40:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:40:	ImmutableField: Private field 'topic' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/pack/order/controller/OrderController.java:40:	ImmutableField: Private field 'topic' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/pack/order/controller/OrderController.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:42:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:42:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:42:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:42:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:43:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:43:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:43:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:43:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:43:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:43:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:45:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:45:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/controller/OrderController.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/main/java/com/pack/order/controller/OrderController.java:45:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:45:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/controller/OrderController.java:45:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:45:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/controller/OrderController.java:48:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:48:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:53:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:53:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:53:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:53:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:59:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:59:	MethodArgumentCouldBeFinal: Parameter 'data' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:65:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:66:	LocalVariableCouldBeFinal: Local variable 'ordersList' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:66:	LocalVariableCouldBeFinal: Local variable 'ordersList' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:67:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/controller/OrderController.java:67:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/controller/OrderController.java:67:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/order/controller/OrderController.java:67:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/order/controller/OrderController.java:73:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:73:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:75:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:75:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:75:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:75:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:80:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:80:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:80:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:80:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:81:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:81:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:82:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:82:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:88:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:88:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:90:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:90:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:90:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:90:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:96:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:96:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:96:	MethodArgumentCouldBeFinal: Parameter 'order' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:96:	MethodArgumentCouldBeFinal: Parameter 'order' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:96:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:96:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:98:	LocalVariableCouldBeFinal: Local variable 'orders' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:98:	LocalVariableCouldBeFinal: Local variable 'orders' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:99:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:99:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:105:	LocalVariableCouldBeFinal: Local variable 'order1' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:105:	LocalVariableCouldBeFinal: Local variable 'order1' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:106:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:106:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:108:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:108:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:108:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:108:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:113:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:113:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:113:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:113:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:114:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:114:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:120:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:120:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:121:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:121:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:129:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:129:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:129:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:129:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:130:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:130:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:131:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:131:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/pack/order/controller/OrderController.java:138:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:138:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/pack/order/controller/OrderController.java:140:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:140:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/controller/OrderController.java:140:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:140:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/controller/OrderController.java:146:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:146:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:150:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:150:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:156:	AvoidDuplicateLiterals: The String literal "profileId" appears 6 times in this file; the first occurrence is on line 156
+src/main/java/com/pack/order/controller/OrderController.java:156:	AvoidDuplicateLiterals: The String literal "profileId" appears 6 times in this file; the first occurrence is on line 156
+src/main/java/com/pack/order/controller/OrderController.java:156:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:156:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:156:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:156:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:160:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:160:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:160:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:160:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:166:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:166:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:166:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:166:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:170:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:170:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:170:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:170:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:176:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:176:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:176:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:176:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:176:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:176:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:180:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:180:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:180:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:180:	MethodArgumentCouldBeFinal: Parameter 'profile' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:180:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:180:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:186:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:186:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:186:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:186:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:191:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:191:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/controller/OrderController.java:191:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/controller/OrderController.java:191:	MethodArgumentCouldBeFinal: Parameter 'profileId' is not assigned and could be declared final
+src/main/java/com/pack/order/entity/Orders.java:19:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/entity/Orders.java:19:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/entity/Orders.java:25:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:25:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/entity/Orders.java:29:	LongVariable: Avoid excessively long variable names like orderProfileMatchingId
+src/main/java/com/pack/order/entity/Orders.java:29:	LongVariable: Avoid excessively long variable names like orderProfileMatchingId
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:13:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:13:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:13:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:16:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:16:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:17:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:18:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:18:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:25:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:26:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:27:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:27:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:34:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:34:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:35:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:35:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:36:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:36:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:43:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:43:	UnnecessaryAnnotationValueElement: Avoid the use of value in annotations when its the only element
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:44:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:44:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:45:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderExceptionHandler.java:45:	LocalVariableCouldBeFinal: Local variable 'error' could be declared final
+src/main/java/com/pack/order/error/OrderListEmptyException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderListEmptyException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderListEmptyException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderListEmptyException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderSpecificationNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderSpecificationNotFoundException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/OrderSpecificationNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/OrderSpecificationNotFoundException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/ProfileIdNotMatchedException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/ProfileIdNotMatchedException.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/error/ProfileIdNotMatchedException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/error/ProfileIdNotMatchedException.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:29:	LongVariable: Avoid excessively long variable names like paymentProcessingEnabled
+src/main/java/com/pack/order/model/CollectionRules.java:29:	LongVariable: Avoid excessively long variable names like paymentProcessingEnabled
+src/main/java/com/pack/order/model/CollectionRules.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/CollectionRules.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:12:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:13:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/ExceptionResponse.java:14:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:13:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:13:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:15:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:15:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:16:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:16:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:17:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/MessageSpecs.java:17:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/Orderss.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/Orderss.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:30:	LongVariable: Avoid excessively long variable names like orderFulfillmentType
+src/main/java/com/pack/order/model/Orderss.java:30:	LongVariable: Avoid excessively long variable names like orderFulfillmentType
+src/main/java/com/pack/order/model/Orderss.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:31:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Orderss.java:36:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/Profile.java:23:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/model/Profile.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:27:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:29:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:30:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:35:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:40:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/model/Profile.java:40:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/repository/OrderRepository.java:9:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/repository/OrderRepository.java:9:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/repository/ProfileRepository.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/repository/ProfileRepository.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/repository/ProfileRepository.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/repository/ProfileRepository.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/repository/ProfileRepository.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProfileId': the method is declared in an interface type
+src/main/java/com/pack/order/repository/ProfileRepository.java:9:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'findByProfileId': the method is declared in an interface type
+src/main/java/com/pack/order/service/OrderService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/service/OrderService.java:7:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/service/OrderService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:10:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:11:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:12:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderService.java:13:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/service/OrderServiceImpl.java:21:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/pack/order/service/OrderServiceImpl.java:21:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:21:	CommentRequired: Class comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:23:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderRepository field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderRepository field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:24:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:25:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileRepository field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileRepository field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:26:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:27:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:27:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:28:	CommentRequired: Field comments are required
+src/main/java/com/pack/order/service/OrderServiceImpl.java:33:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:33:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:34:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:34:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:34:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/order/service/OrderServiceImpl.java:34:	UseCollectionIsEmpty: Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/main/java/com/pack/order/service/OrderServiceImpl.java:38:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:38:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:38:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:38:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:44:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:45:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:45:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:49:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:49:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:49:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:49:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:54:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:54:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:55:	LocalVariableCouldBeFinal: Local variable 'profiles' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:55:	LocalVariableCouldBeFinal: Local variable 'profiles' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:56:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:56:	LocalVariableCouldBeFinal: Local variable 'profile2' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:57:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:63:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:77:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:77:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:77:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:77:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:78:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:79:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:79:	UselessParentheses: Useless parentheses.
+src/main/java/com/pack/order/service/OrderServiceImpl.java:83:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:83:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:83:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:83:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:90:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:90:	MethodArgumentCouldBeFinal: Parameter 'orderId' is not assigned and could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/pack/order/service/OrderServiceImpl.java:91:	LocalVariableCouldBeFinal: Local variable 'orders' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:91:	LocalVariableCouldBeFinal: Local variable 'orders' could be declared final
+src/main/java/com/pack/order/service/OrderServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:95:	ControlStatementBraces: This statement should have braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/main/java/com/pack/order/service/OrderServiceImpl.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/test/java/com/pack/order/OrderApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/OrderApplicationTests.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/OrderApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/OrderApplicationTests.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the contextLoads method if you want a default access modifier
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/pack/order/OrderApplicationTests.java:10:	UncommentedEmptyMethodBody: Document empty method body
+src/test/java/com/pack/order/controller/OrderControllerTest.java:27:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/controller/OrderControllerTest.java:27:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/controller/OrderControllerTest.java:27:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:27:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:29:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:29:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderService field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderService field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:30:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:32:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:32:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the controller field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the controller field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:33:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:35:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:35:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messageSpecs field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:36:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:36:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:38:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:38:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:39:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:41:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:41:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:42:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:44:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:44:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:45:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:45:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:47:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:47:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the template field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the template field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:48:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:50:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the messages field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:52:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:54:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:56:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/controller/OrderControllerTest.java:59:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:59:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the setup method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:59:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/pack/order/controller/OrderControllerTest.java:59:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/test/java/com/pack/order/controller/OrderControllerTest.java:60:	AvoidDuplicateLiterals: The String literal "orderId" appears 7 times in this file; the first occurrence is on line 60
+src/test/java/com/pack/order/controller/OrderControllerTest.java:60:	AvoidDuplicateLiterals: The String literal "orderId" appears 7 times in this file; the first occurrence is on line 60
+src/test/java/com/pack/order/controller/OrderControllerTest.java:76:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetAllOrders method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:76:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetAllOrders method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:77:	LocalVariableCouldBeFinal: Local variable 'ordersList' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:77:	LocalVariableCouldBeFinal: Local variable 'ordersList' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:79:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:80:	AvoidDuplicateLiterals: The String literal "topic" appears 5 times in this file; the first occurrence is on line 80
+src/test/java/com/pack/order/controller/OrderControllerTest.java:80:	AvoidDuplicateLiterals: The String literal "topic" appears 5 times in this file; the first occurrence is on line 80
+src/test/java/com/pack/order/controller/OrderControllerTest.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:80:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:81:	LocalVariableCouldBeFinal: Local variable 'ordersList1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:81:	LocalVariableCouldBeFinal: Local variable 'ordersList1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:82:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:82:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:82:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:86:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetOrderById method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:86:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetOrderById method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:89:	LocalVariableCouldBeFinal: Local variable 'order1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:89:	LocalVariableCouldBeFinal: Local variable 'order1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:90:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:90:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:90:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:90:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:94:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUpdateOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:94:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUpdateOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:95:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:95:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:96:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:96:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:97:	LocalVariableCouldBeFinal: Local variable 'order2' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:97:	LocalVariableCouldBeFinal: Local variable 'order2' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:98:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:98:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:98:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:98:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:102:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSaveOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:102:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSaveOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:103:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:103:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:104:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:104:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:105:	LocalVariableCouldBeFinal: Local variable 'profile1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:105:	LocalVariableCouldBeFinal: Local variable 'profile1' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:106:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:106:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:106:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:106:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:110:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDeleteOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:110:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDeleteOrder method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:110:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/controller/OrderControllerTest.java:110:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/controller/OrderControllerTest.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:111:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:112:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:112:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'string' (lines '113'-'115').
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'string' (lines '113'-'115').
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	LocalVariableCouldBeFinal: Local variable 'string' could be declared final
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	UnusedLocalVariable: Avoid unused local variables such as 'string'.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:113:	UnusedLocalVariable: Avoid unused local variables such as 'string'.
+src/test/java/com/pack/order/controller/OrderControllerTest.java:118:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testConsumeMsg method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:118:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testConsumeMsg method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:119:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:119:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:123:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMsgFromTopic method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:123:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMsgFromTopic method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:124:	AvoidDuplicateLiterals: The String literal "data" appears 4 times in this file; the first occurrence is on line 124
+src/test/java/com/pack/order/controller/OrderControllerTest.java:124:	AvoidDuplicateLiterals: The String literal "data" appears 4 times in this file; the first occurrence is on line 124
+src/test/java/com/pack/order/controller/OrderControllerTest.java:125:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:125:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:129:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMsgFromTopic1 method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:129:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMsgFromTopic1 method if you want a default access modifier
+src/test/java/com/pack/order/controller/OrderControllerTest.java:131:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/controller/OrderControllerTest.java:131:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/entity/OrdersTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/entity/OrdersTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/entity/OrdersTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/entity/OrdersTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/entity/OrdersTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderId method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderId method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:13:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:13:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:17:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderName method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:17:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderName method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:19:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:19:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:23:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderPrice method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:23:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderPrice method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:25:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:25:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderStatus method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:29:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderStatus method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:31:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:31:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderProfileMatchingId method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:35:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderProfileMatchingId method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:41:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:41:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/entity/OrdersTest.java:42:	LocalVariableCouldBeFinal: Local variable 'orders1' could be declared final
+src/test/java/com/pack/order/entity/OrdersTest.java:42:	LocalVariableCouldBeFinal: Local variable 'orders1' could be declared final
+src/test/java/com/pack/order/entity/OrdersTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/entity/OrdersTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/CollectionRulesTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/CollectionRulesTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the rules field if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the rules field if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/CollectionRulesTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/CollectionRulesTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/CollectionRulesTest.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetDescription method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetDescription method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetFraudCheckEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetFraudCheckEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:20:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:20:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetPaymentProcessingEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetPaymentProcessingEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:26:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:26:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetResourcingEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetResourcingEnabled method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:32:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:32:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfile method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfile method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/CollectionRulesTest.java:43:	LocalVariableCouldBeFinal: Local variable 'rules1' could be declared final
+src/test/java/com/pack/order/model/CollectionRulesTest.java:43:	LocalVariableCouldBeFinal: Local variable 'rules1' could be declared final
+src/test/java/com/pack/order/model/CollectionRulesTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/CollectionRulesTest.java:44:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/CollectionRulesTest.java:44:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/test/java/com/pack/order/model/MessageSpecsTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/MessageSpecsTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/MessageSpecsTest.java:8:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:8:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the specs field if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the specs field if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/MessageSpecsTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the lastupdated field if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the lastupdated field if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/MessageSpecsTest.java:11:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/MessageSpecsTest.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderId method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderId method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:15:	AvoidDuplicateLiterals: The String literal "orderId" appears 4 times in this file; the first occurrence is on line 15
+src/test/java/com/pack/order/model/MessageSpecsTest.java:15:	AvoidDuplicateLiterals: The String literal "orderId" appears 4 times in this file; the first occurrence is on line 15
+src/test/java/com/pack/order/model/MessageSpecsTest.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOperation method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOperation method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:21:	AvoidDuplicateLiterals: The String literal "operation" appears 4 times in this file; the first occurrence is on line 21
+src/test/java/com/pack/order/model/MessageSpecsTest.java:21:	AvoidDuplicateLiterals: The String literal "operation" appears 4 times in this file; the first occurrence is on line 21
+src/test/java/com/pack/order/model/MessageSpecsTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetLastupdated method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetLastupdated method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:33:	LocalVariableCouldBeFinal: Local variable 'specs1' could be declared final
+src/test/java/com/pack/order/model/MessageSpecsTest.java:33:	LocalVariableCouldBeFinal: Local variable 'specs1' could be declared final
+src/test/java/com/pack/order/model/MessageSpecsTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/MessageSpecsTest.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/test/java/com/pack/order/model/MessageSpecsTest.java:39:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/model/MessageSpecsTest.java:39:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/model/OrderssTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/OrderssTest.java:6:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/OrderssTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:6:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/OrderssTest.java:8:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/OrderssTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:8:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:8:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/OrderssTest.java:8:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/OrderssTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/OrderssTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/OrderssTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/OrderssTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/OrderssTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/OrderssTest.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderProfileId method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:12:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderProfileId method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:14:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetSourceChannel method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:18:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetSourceChannel method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderLineType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:24:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderLineType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderFulfillmentType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:30:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderFulfillmentType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:32:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderDeliveryType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:36:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderDeliveryType method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:37:	AvoidDuplicateLiterals: The String literal "orderDeliveryType" appears 4 times in this file; the first occurrence is on line 37
+src/test/java/com/pack/order/model/OrderssTest.java:37:	AvoidDuplicateLiterals: The String literal "orderDeliveryType" appears 4 times in this file; the first occurrence is on line 37
+src/test/java/com/pack/order/model/OrderssTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfile method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfile method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:44:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:48:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:48:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/OrderssTest.java:49:	LocalVariableCouldBeFinal: Local variable 'orderss1' could be declared final
+src/test/java/com/pack/order/model/OrderssTest.java:49:	LocalVariableCouldBeFinal: Local variable 'orderss1' could be declared final
+src/test/java/com/pack/order/model/OrderssTest.java:50:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/OrderssTest.java:50:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/ProfileTest.java:7:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/model/ProfileTest.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:7:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:9:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:9:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:9:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:10:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:10:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/model/ProfileTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:11:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:11:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/model/ProfileTest.java:11:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:11:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/model/ProfileTest.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileId method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:14:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileId method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:15:	AvoidDuplicateLiterals: The String literal "profileId" appears 4 times in this file; the first occurrence is on line 15
+src/test/java/com/pack/order/model/ProfileTest.java:15:	AvoidDuplicateLiterals: The String literal "profileId" appears 4 times in this file; the first occurrence is on line 15
+src/test/java/com/pack/order/model/ProfileTest.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:16:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileType method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:20:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileType method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:22:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetCreatedBy method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:26:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetCreatedBy method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:28:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetLastUpdatedBy method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:32:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetLastUpdatedBy method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileStatus method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:38:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetProfileStatus method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:40:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testAllArgsConstructor method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:45:	LocalVariableCouldBeFinal: Local variable 'profile1' could be declared final
+src/test/java/com/pack/order/model/ProfileTest.java:45:	LocalVariableCouldBeFinal: Local variable 'profile1' could be declared final
+src/test/java/com/pack/order/model/ProfileTest.java:46:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:46:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:50:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderss method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:50:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetOrderss method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:56:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetCollectionRules method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:56:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetSetCollectionRules method if you want a default access modifier
+src/test/java/com/pack/order/model/ProfileTest.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/model/ProfileTest.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/com/pack/order/service/OrderServiceTest.java:25:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/service/OrderServiceTest.java:25:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/com/pack/order/service/OrderServiceTest.java:25:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:25:	CommentRequired: Class comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:27:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:27:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the service field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:28:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:30:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:30:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orders field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:31:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:33:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderRepository field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderRepository field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:34:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:36:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileRepository field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:37:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileRepository field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:37:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:37:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:39:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:39:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:40:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:40:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profileProxy field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:40:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:40:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the profile field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:42:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the collectionRules field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:44:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the orderss field if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	CommentRequired: Field comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:45:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/test/java/com/pack/order/service/OrderServiceTest.java:48:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:48:	CommentRequired: Public method and constructor comments are required
+src/test/java/com/pack/order/service/OrderServiceTest.java:49:	AvoidDuplicateLiterals: The String literal "orderId" appears 7 times in this file; the first occurrence is on line 49
+src/test/java/com/pack/order/service/OrderServiceTest.java:49:	AvoidDuplicateLiterals: The String literal "orderId" appears 7 times in this file; the first occurrence is on line 49
+src/test/java/com/pack/order/service/OrderServiceTest.java:65:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetAllOrders method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:65:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetAllOrders method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:66:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/test/java/com/pack/order/service/OrderServiceTest.java:66:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/test/java/com/pack/order/service/OrderServiceTest.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:69:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:74:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:74:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:75:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:76:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:76:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:81:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUpdateOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:81:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testUpdateOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:82:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:83:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:84:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:85:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:85:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:86:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:86:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:87:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:88:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:92:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDeleteOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:92:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testDeleteOrderById method if you want a default access modifier
+src/test/java/com/pack/order/service/OrderServiceTest.java:92:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/service/OrderServiceTest.java:92:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/com/pack/order/service/OrderServiceTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/com/pack/order/service/OrderServiceTest.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
